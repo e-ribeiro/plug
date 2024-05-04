@@ -15,7 +15,6 @@ export class PlugService {
 
   /**
    * Initializes the PlugService and sets up the service systems map.
-   * @param config
    * @param brasilapi
    */
   constructor(
