@@ -10,8 +10,6 @@ Key Features:
 
 The Plug module is ideal for developers looking to extend their NestJS applications with external services while keeping the codebase clean and maintainable.
 
-Aqui está um exemplo de documentação em Markdown para o módulo Plug, especificamente para o método `zipcode` que recupera endereços de uma API pública baseada em CEPs:
-
 ## Example: Zipcode Integration
 
 The `zipcode` method in the Plug module allows NestJS applications to seamlessly retrieve address details from a public API based on the provided postal code (CEP). Below are the steps and examples to use this method effectively in your project.
